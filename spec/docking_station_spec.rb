@@ -31,4 +31,6 @@ describe DockingStation do
     expect(subject.bike).to eq bike
   end
 
+  it { is_expected.to respond_to(:bicycle) }
+
 end
