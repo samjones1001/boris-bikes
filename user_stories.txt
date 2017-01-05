@@ -1,0 +1,7 @@
+User Story 1
+Nouns: person, bike, docking station
+Verbs: use, release
+
+User Story 2
+Nouns: person, bike
+Verbs: use, see (check)
