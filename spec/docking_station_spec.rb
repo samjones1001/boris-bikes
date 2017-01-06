@@ -5,8 +5,8 @@ describe DockingStation do
   it { is_expected.to respond_to :release_bike }
 
   it 'can set a capacity' do
-    station = DockingStation.new(capacity)
-    expect(subject.capacity).to eq capacity
+    #station = DockingStation.new(capacity)
+    expect(subject.capacity).to eq DockingStation::DEFAULT_CAPACITY
   end
   
 
