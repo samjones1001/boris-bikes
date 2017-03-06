@@ -72,6 +72,12 @@ $ git clone https://github.com/samjones1001/boris-bikes
 $ cd boris-bikes
 $ bundle
 ```
+
+* run tests
+```shell
+$ rspec
+```
+
 * run the application in irb
 
 ```shell
